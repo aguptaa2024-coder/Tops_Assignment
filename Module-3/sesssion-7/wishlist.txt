@@ -1,0 +1,3 @@
+lenovo 200000
+keyboard 1200
+mouse 700
