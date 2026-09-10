@@ -19,4 +19,6 @@ int main()
     cout << "Total Followers: " << count << endl;
 
     return 0;
+    main(){
+	}
 }
