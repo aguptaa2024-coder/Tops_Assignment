@@ -1,5 +1,65 @@
-1. In the C version, the task data and functions were separate. In the OOP version, the class keeps the task data and methods together.
+🎤 My Journey to Kedarnath
 
-2. In the C version, changing a task to DONE required manually modifying the array. In the OOP version, the markDone() method easily changes the task status.
+Good morning ma’am and my dear friends.
 
-3. In the C version, the code became harder to organize when adding more features. In the OOP version, methods like markDone() and display() keep the code simple and organized.
+Today, I am going to speak about my journey to Kedarnath.
+Kedarnath is a very famous religious place in Uttarakhand. It is also known for its beautiful mountains and peaceful environment.
+
+So, let me tell you about my journey.
+
+First, I started my journey from my home with my family.
+I was very excited because I was going on a trip with my family. We packed our bags and started our journey by car.
+
+During the journey, we travelled by car and enjoyed the beautiful roads and views.
+On the way, we saw beautiful mountains, trees and green valleys. The journey was long, but the beautiful views made it enjoyable.
+
+After some time, we reached Rishikesh.
+Rishikesh is a very beautiful place. In the evening, we saw the Ganga Aarti. The atmosphere was very peaceful and beautiful. It was a memorable experience for me.
+
+After Rishikesh, we started our journey towards Kedarnath.
+The roads were beautiful, but in some places they were a little difficult. Still, we enjoyed the journey and the natural beauty around us.
+
+Then, we reached Gaurikund.
+Gaurikund is an important place because from here, we had to start our trek towards Kedarnath.
+
+After reaching Gaurikund, our trekking started.
+The trek was a little tiring because we had to walk for a long distance. But the beautiful mountains and fresh air gave us energy. We also enjoyed the beautiful views during the trek.
+
+Finally, we reached Kedarnath.
+After a long journey and trek, seeing the Kedarnath Temple was a very special moment for me. The temple looked very beautiful, with the mountains in the background.
+
+Then, we had the Darshan of Lord Shiva.
+It was a very peaceful and emotional moment. I felt very happy and calm. The atmosphere around the temple was also very peaceful.
+
+After Darshan, we enjoyed the beautiful view of the mountains.
+The weather was cold, and the environment was very peaceful. We spent some time there and enjoyed the beauty of nature.
+
+After that, we started our return journey.
+We came back with lots of memories and happiness. The journey was tiring, but it was also very enjoyable.
+
+Finally, we reached home safely.
+It was an amazing and unforgettable journey.
+
+There were many things that I liked about this trip. I liked the beautiful mountains, peaceful environment, Darshan of Lord Shiva, and most importantly, the time I spent with my family.
+
+This journey also taught me many things. It taught me that sometimes a journey can be difficult and tiring, but if we stay positive, we can enjoy every moment.
+
+This trip gave me peace, happiness and strength. I will always remember this journey to Kedarnath.
+
+Thank you, ma’am and everyone, for listening to me. 🙏
+
+🗣️ बोलने का छोटा तरीका
+
+तुम gallery में 1 से 11 तक point दिखाते हुए speech बोलना:
+
+1 → Home
+2 → Journey by car
+3 → Rishikesh & Ganga Aarti
+4 → Towards Kedarnath
+5 → Gaurikund
+6 → Trekking
+7 → Kedarnath Temple
+8 → Darshan
+9 → Mountain view
+10 → Return journey
+11 → Back home
